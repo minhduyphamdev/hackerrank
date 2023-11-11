@@ -1,0 +1,13 @@
+Class A {
+  public void test() {
+
+  }
+}
+
+Class B {
+  public void test()
+}
+
+public class Implementation extends A{
+    
+}
