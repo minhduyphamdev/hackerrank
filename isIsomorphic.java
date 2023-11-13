@@ -26,7 +26,7 @@ public class isIsomorphic {
   }
 
 //   public boolean isIsomorphic(String s, String t) {
-
+//     // optimize this with only 26
 //     int map1[]=new int[200];
 //     int map2[]=new int[200];
 
