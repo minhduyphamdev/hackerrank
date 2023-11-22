@@ -15,7 +15,7 @@
 
 import java.util.Random;
 
-public class TestCaseGenerator {
+public class SumOfTwoIntegerTest {
 
     public static void main(String[] args) {
         generateTestCase();
